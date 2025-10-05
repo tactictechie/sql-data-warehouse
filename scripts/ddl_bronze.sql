@@ -57,7 +57,7 @@ CREATE TABLE bronze.crm_prd_info(
 
 
 	CREATE TABLE bronze.erp_cust_az12(
-	ci VARCHAR(50),
+	cid VARCHAR(50),
 	bdate DATE,
 	gen NVARCHAR (50));
 
